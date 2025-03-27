@@ -1,0 +1,15 @@
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\bin\Debug\net8.0\UniversalObjectDetector.Detectors.deps.json
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\bin\Debug\net8.0\UniversalObjectDetector.Detectors.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\bin\Debug\net8.0\UniversalObjectDetector.Detectors.pdb
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\bin\Debug\net8.0\UniversalObjectDetector.Core.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\bin\Debug\net8.0\UniversalObjectDetector.Core.pdb
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.csproj.AssemblyReference.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.AssemblyInfoInputs.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.AssemblyInfo.cs
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.csproj.CoreCompileInputs.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\Universa.58EFCA7A.Up2Date
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\refint\UniversalObjectDetector.Detectors.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\UniversalObjectDetector.Detectors.pdb
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Detectors\obj\Debug\net8.0\ref\UniversalObjectDetector.Detectors.dll

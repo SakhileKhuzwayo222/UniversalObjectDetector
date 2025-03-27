@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}|UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.app\\universalobjectdetector.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}|UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj|solutionrelative:universalobjectdetector.app\\universalobjectdetector.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159DC437-8441-499C-B6A4-979ABF35BFCB}|UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.core\\universalobjectdetector.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{159DC437-8441-499C-B6A4-979ABF35BFCB}|UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj|solutionrelative:universalobjectdetector.core\\universalobjectdetector.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B0D8D-B338-458D-81C9-0737E0086B80}|UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.detectors\\universalobjectdetector.detectors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B50B0D8D-B338-458D-81C9-0737E0086B80}|UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj|solutionrelative:universalobjectdetector.detectors\\universalobjectdetector.detectors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}|UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}|UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj|solutionrelative:universalobjectdetector.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B0D8D-B338-458D-81C9-0737E0086B80}|UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.detectors\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B0D8D-B338-458D-81C9-0737E0086B80}|UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj|solutionrelative:universalobjectdetector.detectors\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159DC437-8441-499C-B6A4-979ABF35BFCB}|UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj|c:\\users\\admin user\\source\\repos\\universalobjectdectector\\universalobjectdetector.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159DC437-8441-499C-B6A4-979ABF35BFCB}|UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj|solutionrelative:universalobjectdetector.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversalObjectDetector.Core",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj",
+              "RelativeToolTip": "UniversalObjectDetector.Core\\UniversalObjectDetector.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T12:12:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversalObjectDetector.App",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj",
+              "RelativeToolTip": "UniversalObjectDetector.App\\UniversalObjectDetector.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T12:12:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversalObjectDetector.Detectors",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj",
+              "RelativeToolTip": "UniversalObjectDetector.Detectors\\UniversalObjectDetector.Detectors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T12:07:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.App\\Program.cs",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.App\\Program.cs",
+              "RelativeToolTip": "UniversalObjectDetector.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:08:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Detectors\\Class1.cs",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.Detectors\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Detectors\\Class1.cs",
+              "RelativeToolTip": "UniversalObjectDetector.Detectors\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:07:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "UniversalObjectDetector.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\UniversalObjectDectector\\UniversalObjectDetector.Core\\Class1.cs",
+              "RelativeToolTip": "UniversalObjectDetector.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:06:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

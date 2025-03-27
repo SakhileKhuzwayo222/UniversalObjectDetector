@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalObjectDetector.Core", "UniversalObjectDetector.Core\UniversalObjectDetector.Core.csproj", "{159DC437-8441-499C-B6A4-979ABF35BFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalObjectDetector.Detectors", "UniversalObjectDetector.Detectors\UniversalObjectDetector.Detectors.csproj", "{B50B0D8D-B338-458D-81C9-0737E0086B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalObjectDetector.App", "UniversalObjectDetector.App\UniversalObjectDetector.App.csproj", "{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{23073CD9-EC21-450B-8F5F-5C95F9BBA536}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		appsettings.json = appsettings.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{7A36EE8C-F353-422C-97F8-9A3171CEC6F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cascades", "cascades", "{1D799E30-2AD5-4FE8-B389-33B26B6E1EE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "models", "models", "{EDA3AE2B-C7B5-4C44-881C-99335DC8002E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "training_images", "training_images", "{91A117E4-4A63-4D1A-BA33-90A9279BA28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159DC437-8441-499C-B6A4-979ABF35BFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159DC437-8441-499C-B6A4-979ABF35BFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159DC437-8441-499C-B6A4-979ABF35BFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159DC437-8441-499C-B6A4-979ABF35BFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50B0D8D-B338-458D-81C9-0737E0086B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50B0D8D-B338-458D-81C9-0737E0086B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50B0D8D-B338-458D-81C9-0737E0086B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50B0D8D-B338-458D-81C9-0737E0086B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E47F68-66C4-49FC-AB65-71E2CF7C9E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23073CD9-EC21-450B-8F5F-5C95F9BBA536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23073CD9-EC21-450B-8F5F-5C95F9BBA536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23073CD9-EC21-450B-8F5F-5C95F9BBA536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23073CD9-EC21-450B-8F5F-5C95F9BBA536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A36EE8C-F353-422C-97F8-9A3171CEC6F1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1D799E30-2AD5-4FE8-B389-33B26B6E1EE6} = {7A36EE8C-F353-422C-97F8-9A3171CEC6F1}
+		{EDA3AE2B-C7B5-4C44-881C-99335DC8002E} = {7A36EE8C-F353-422C-97F8-9A3171CEC6F1}
+		{91A117E4-4A63-4D1A-BA33-90A9279BA28E} = {7A36EE8C-F353-422C-97F8-9A3171CEC6F1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58DF05D-4581-49D7-A359-B8BE02C68A3B}
+	EndGlobalSection
+EndGlobal

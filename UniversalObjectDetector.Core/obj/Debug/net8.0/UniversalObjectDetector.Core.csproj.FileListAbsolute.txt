@@ -1,0 +1,12 @@
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\bin\Debug\net8.0\UniversalObjectDetector.Core.deps.json
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\bin\Debug\net8.0\UniversalObjectDetector.Core.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\bin\Debug\net8.0\UniversalObjectDetector.Core.pdb
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.csproj.AssemblyReference.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.AssemblyInfoInputs.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.AssemblyInfo.cs
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\refint\UniversalObjectDetector.Core.dll
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\UniversalObjectDetector.Core.pdb
+C:\Users\Admin user\source\repos\UniversalObjectDectector\UniversalObjectDetector.Core\obj\Debug\net8.0\ref\UniversalObjectDetector.Core.dll
