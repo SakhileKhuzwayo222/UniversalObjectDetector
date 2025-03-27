@@ -2,7 +2,7 @@
 
 # Universal Object Detector
 
----
+
 
 ## Project Description  
 **UniversalObjectDetector** is a flexible and high-performance object detection framework that supports multiple detection techniques, including **Haar Cascades**, **YOLO (You Only Look Once)**, and **custom Machine Learning models**. Designed for both images and real-time video streams, it provides precise and efficient object recognition while maintaining a modular structure for easy extension and optimization.  
